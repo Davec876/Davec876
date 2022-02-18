@@ -2,7 +2,7 @@
 
 * My name is Dave and I'm currently a second year Bachelor of Computer Science Major located in Halifax, NS, Canada.
 * My interests include Web Development, ML, Backend, and Full stack developments
-* Feel free to reach out to me on LinkedIn, I would love to connect! https://bit.ly/3GQuNro
+* Feel free to reach out to me on LinkedIn, I would love to connect! https://www.linkedin.com/in/davec876/
 
 <!---
 Davec876/Davec876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
