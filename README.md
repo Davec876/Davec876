@@ -1,6 +1,6 @@
 # About me
 
-* My name is Dave and I'm currently a third year Bachelor of Computer Science Major located in Halifax, NS, Canada.
+* My name is Dave and I'm currently a Forth year Bachelor of Computer Science Major located in Halifax, NS, Canada.
 * My interests include Web Development, Cloud Technologies, Backend, and Full stack developments
 * Feel free to reach out to me on LinkedIn, I would love to connect! https://www.linkedin.com/in/davec876/
 
