@@ -1,6 +1,6 @@
 # About me
 
-* My name is Dave and I'm currently a recent Bachelor of Computer Science graduated working for Bell Canada (BCE inc) located in Halifax, NS, Canada.
+* My name is Dave and I'm currently a recent Bachelor of Computer Science graduate working for Bell Canada (BCE inc) located in Halifax, NS, Canada.
 * My interests include Web Development, Cloud Technologies, Backend, AI, and Full stack developments
 * Feel free to reach out to me on LinkedIn, I would love to connect! <a href="https://www.linkedin.com/in/davec876/" target="_blank" rel="noopener noreferrer"> LinkedIn </a>
 
